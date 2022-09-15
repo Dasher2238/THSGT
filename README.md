@@ -1,2 +1,2 @@
-# setup
-my personal sublime text setup
+# Learning how to code
+Doing some simple exercises in order to improve my knowledge
